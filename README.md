@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png">
+<img align="right" width="500" height="500" src="https://github.com/CrvcMaestro1/CrvcMaestro1/blob/master/gatitot.jpg">
 
 
 # Recuerda que dios eres tú

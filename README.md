@@ -1,9 +1,9 @@
 <img align="right" width="500" height="500" src="https://github.com/DamianRincon/DamianRincon/blob/master/img/home-banner-bg.png">
 
 
-# Hola todos.
+# Recuerda que dios eres tú
 
-Full-Stack | Web | Mobile | Networking | Process
+Full-Stack | Web | Mobile | Networking | Process Engineering
 
 [![Github](https://img.shields.io/github/followers/CrvcMaestro1?style=social)](https://github.com/CrvcMaestro1)
 [![Github](https://img.shields.io/github/last-commit/CrvcMaestro1/CrvcMaestro1)](https://github.com/CrvcMaestro1/CrvcMaestro1)

@@ -5,12 +5,6 @@
 
 Python Dev | Web | API Rest |
 
-[![Github](https://img.shields.io/github/followers/CrvcMaestro1?style=social)](https://github.com/CrvcMaestro1)
-[![Github](https://img.shields.io/github/last-commit/CrvcMaestro1/CrvcMaestro1)](https://github.com/CrvcMaestro1/CrvcMaestro1)
-[![Github](https://img.shields.io/github/stars/CrvcMaestro1/CrvcMaestro1?style=social)](https://github.com/CrvcMaestro1/CrvcMaestro1)
-[![Github](https://img.shields.io/github/watchers/CrvcMaestro1/CrvcMaestro1?style=social)](https://github.com/CrvcMaestro1/CrvcMaestro1)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCrvcmaestro1)](https://twitter.com/Crvcmaestro1)
-
 # En búsqueda de experiencia en múltiples tecnologías.
 
 ## Acerca de mí

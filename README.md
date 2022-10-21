@@ -41,7 +41,3 @@ Python Dev | Web | API Rest |
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-## Estadísticas
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CrvcMaestro1&count_private=true&show_icons=true&include_all_commits=true)

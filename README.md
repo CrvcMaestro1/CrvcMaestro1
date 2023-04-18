@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://github.com/CrvcMaestro1/CrvcMaestro1/blob/master/FOTO_PERFIL.jpg">
+<img align="right" width="500" height="500" src="https://github.com/CrvcMaestro1/CrvcMaestro1/blob/master/profile_pic.jpg">
 
 
 # Backend Developer
